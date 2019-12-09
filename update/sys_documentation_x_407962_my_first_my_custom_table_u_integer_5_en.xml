@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_integer_5" label="Address Number" language="en" table="x_407962_my_first_my_custom_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_integer_5</element>
+            <help/>
+            <hint/>
+            <label>Address Number</label>
+            <language>en</language>
+            <name>x_407962_my_first_my_custom_table</name>
+            <plural>Address Numbers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-09 17:33:33</sys_created_on>
+            <sys_id>8d6674b207a100108f8df7108c1ed0d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Address Number</sys_name>
+            <sys_package display_value="My First Application" source="x_407962_my_first">93ca24fe072100108f8df7108c1ed0f5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="My First Application">93ca24fe072100108f8df7108c1ed0f5</sys_scope>
+            <sys_update_name>sys_documentation_x_407962_my_first_my_custom_table_u_integer_5_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-09 17:33:33</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

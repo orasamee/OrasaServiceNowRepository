@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="My Custom Table " max_length="40" name="x_407962_my_first_my_custom_table" type="collection">
+        <element label="Date Time" max_length="40" name="u_glide_time_3" read_only="true" type="glide_time"/>
+        <element label="Address Number" max_length="40" name="u_integer_5" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Short Description" mandatory="true" max_length="125" name="u_string_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="condominium" label="Residential" max_length="40" name="u_string_10" type="string">
+            <choice>
+                <element inactive_on_update="false" label="House" sequence="0" value="house"/>
+                <element inactive_on_update="false" label="Apartment" sequence="1" value="apartment"/>
+                <element inactive_on_update="false" label="Town House" sequence="2" value="town house"/>
+                <element inactive_on_update="false" label="Condominium" sequence="3" value="condominium"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="First Name" max_length="150" name="u_string_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Last Name" max_length="150" name="u_string_3" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Address" max_length="250" name="u_string_4" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Comment" max_length="250" name="u_string_5" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="City" max_length="100" name="u_string_6" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="State" max_length="50" name="u_string_7" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Zipcode" max_length="10" name="u_string_8" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Phone Number" max_length="20" name="u_string_9" type="string">
+            <choice/>
+        </element>
+    </element>
+</database>

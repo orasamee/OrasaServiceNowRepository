@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_module">
+    <sys_aw_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <content display_value="Lists Module Content">aa5be436076100108f8df7108c1ed06c</content>
+        <content_attrs/>
+        <content_component display_value="sn-component-workspace-list-module">19622d2bff222300294153bd6338f1ef</content_component>
+        <content_tag/>
+        <detail/>
+        <detail_attrs/>
+        <detail_component/>
+        <detail_tag/>
+        <hide_until_ready>false</hide_until_ready>
+        <icon>list-outline</icon>
+        <id>list</id>
+        <label>Lists</label>
+        <order>100</order>
+        <roles/>
+        <sys_class_name>sys_aw_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-09 16:45:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e25be436076100108f8df7108c1ed059</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>list</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="My First Application" source="x_407962_my_first">93ca24fe072100108f8df7108c1ed0f5</sys_package>
+        <sys_policy/>
+        <sys_props/>
+        <sys_scope display_value="My First Application">93ca24fe072100108f8df7108c1ed0f5</sys_scope>
+        <sys_update_name>sys_aw_module_e25be436076100108f8df7108c1ed059</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-09 16:45:20</sys_updated_on>
+        <toolbar_button display_value="Lists Button">e65be436076100108f8df7108c1ed059</toolbar_button>
+        <type>full</type>
+        <workspace_config display_value="My First Application">c20b2472076100108f8df7108c1ed0cd</workspace_config>
+    </sys_aw_module>
+    <sys_variable_value action="delete_multiple" query="document_key=e25be436076100108f8df7108c1ed059"/>
+</record_update>
